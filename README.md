@@ -37,3 +37,9 @@
 ## :handshake: Acknowledgments 
 
 Thank you goes to open-sourcing communities of: the [3Dfier](https://github.com/tudelft3d/3dfier) software, [OSM](https://www.openstreetmap.org/query?lat=36.26875&lon=-115.01064#map=16/36.2719/-115.0068) vector data, and [USGS](http://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Elevation/metadata/NV_Las_Vegas_Region_2016_A16/NV_LasVegas-QL1_2016/reports/) ALS point cloud data!
+
+## :envelope_with_arrow: Contact
+
+In case of questions or encountered flaws:
+- send me an e-mail: olaf.wysocki@tum.de 
+- or directly contribute to the repo!
